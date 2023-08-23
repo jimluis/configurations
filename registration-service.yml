@@ -1,4 +1,4 @@
 datasource:
-	userName: Luis
-	password: 123
+  userName: luis
+  Luis password: 123
 	#	url: jdbc:oracle:thin@123.net:port:schemaName
